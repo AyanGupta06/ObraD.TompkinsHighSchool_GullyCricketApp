@@ -25,7 +25,8 @@ To run this project, you'll need to have the following installed:
 ## Installation
 
 Clone the repository:
-Copygit clone https://github.com/your-username/gully-cric.git
+```bash
+clone https://github.com/your-username/gully-cric.git
 
 Change into the project directory:
 Copycd gully-cric
