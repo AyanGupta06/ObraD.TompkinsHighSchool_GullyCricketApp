@@ -1,6 +1,9 @@
 # Gully Cricket Match Tracker + Stats
 ## Overview
 **Gully Cricket Match Tracker + Stats** is a *Flutter application* that allows users to track their gully cricket stats, connect with friends, create and store games, and view live games for non-players who are their friends.
+## Team Members
+- Mayank Konduri
+- Ayan Gupta
 ## Features
 - **Match Tracking:** Users can record details of their gully cricket matches, including scores, player stats, and match outcomes.
 - **Player Profiles:** Users can create and maintain their own player profiles, tracking their performance over time.
@@ -19,20 +22,20 @@
 # Getting Started
 ## Prerequisites
 To run this project, you'll need to have the following installed:
-- Flutter
-- Dart
+- **Flutter**
+- **Dart**
 
 ## Installation
 
-Clone the repository:
 ```bash
+#Clone the repository:
 clone https://github.com/your-username/gully-cric.git
 
-Change into the project directory:
+#Change into the project directory:
 Copycd gully-cric
 
-Install the dependencies:
+#Install the dependencies:
 Copyflutter pub get
 
-Run the app:
+#Run the app:
 Copyflutter run
