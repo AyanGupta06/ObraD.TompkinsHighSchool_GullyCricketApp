@@ -8,8 +8,8 @@
 - **Live Game View:** Non-playing friends can view live updates of ongoing matches, even if they are not participating.
 - **Game Management:** Users can create, store, and manage their gully cricket games, making it easy to keep track of their matches.
 
-#Getting Started
-##Prerequisites
+# Getting Started
+## Prerequisites
 To run this project, you'll need to have the following installed:
 - Flutter
 - Dart
