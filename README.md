@@ -8,6 +8,14 @@
 - **Live Game View:** Non-playing friends can view live updates of ongoing matches, even if they are not participating.
 - **Game Management:** Users can create, store, and manage their gully cricket games, making it easy to keep track of their matches.
 
+# Usage
+- Sign up or log in to the app.
+- Create your player profile and connect with your friends.
+- Record matches and track your stats.
+- View live updates of ongoing matches played by your friends.
+- Manage your gully cricket games and share them with your network.
+
+
 # Getting Started
 ## Prerequisites
 To run this project, you'll need to have the following installed:
@@ -27,12 +35,3 @@ Copyflutter pub get
 
 Run the app:
 Copyflutter run
-
-
-Usage
-
-Sign up or log in to the app.
-Create your player profile and connect with your friends.
-Record matches and track your stats.
-View live updates of ongoing matches played by your friends.
-Manage your gully cricket games and share them with your network.
