@@ -1,6 +1,6 @@
 # Gully Cricket Match Tracker + Stats
 ## Overview
-Gully Cricket Match Tracker + Stats is a Flutter application that allows users to track their gully cricket stats, connect with friends, create and store games, and view live games for non-players who are their friends.
+**Gully Cricket Match Tracker + Stats** is a *Flutter application* that allows users to track their gully cricket stats, connect with friends, create and store games, and view live games for non-players who are their friends.
 ## Features
 - **Match Tracking:** Users can record details of their gully cricket matches, including scores, player stats, and match outcomes.
 - **Player Profiles:** Users can create and maintain their own player profiles, tracking their performance over time.
